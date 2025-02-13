@@ -1,4 +1,4 @@
-# Sistema de Níveis com Base em Vitórias e Derrotas
+# Calculadora de Níveis utilizando Função
 Este código foi desenvolvido como parte do curso de Lógica de Programação na plataforma Dio.me. Ele tem como objetivo calcular e classificar um jogador em diferentes níveis com base na quantidade de vitórias e derrotas. 
 
 ## Descrição
